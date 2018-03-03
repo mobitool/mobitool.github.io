@@ -27,6 +27,16 @@ epub (Open eBook File)
 ## mobi to txt
 txt (Text Document)
 
+## pdf to mobi
+pdf (Portable Document Format)
+
+
+## epub 
+epub (Open eBook File)
+
+## mobi to txt
+txt (Text Document)
+
 ## mobi to azw3 
 azw3(Amazon KF8 eBook File)
 
