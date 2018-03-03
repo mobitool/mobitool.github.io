@@ -16,20 +16,17 @@
 
 下面是收集的其他文件格式与 mobi 格式相互转换的工具。
 
+# 热门
 ## mobi to pdf
 pdf (Portable Document Format)
 
 1、[https://www.zamzar.com/convert/mobi-to-pdf/](https://www.zamzar.com/convert/mobi-to-pdf/)
-
-# MOBI TO OTHER (热门)
 
 ## mobi to epub
 epub (Open eBook File)
 
 ## mobi to txt
 txt (Text Document)
-
-# OTHER TO MOBI（热门）
 
 ## pdf to mobi
 pdf (Portable Document Format)
