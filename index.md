@@ -14,8 +14,11 @@
 + BMP (.BMP)
 + PDF (.PDF)
 
+下面是收集的其他文件格式与 mobi 格式相互转换的工具。
+
 ## mobi to pdf
 pdf (Portable Document Format)
+
 1、[https://www.zamzar.com/convert/mobi-to-pdf/](https://www.zamzar.com/convert/mobi-to-pdf/)
 
 ## mobi to epub
