@@ -5,4 +5,8 @@ show_downloads: false
 google_analytics: 1234
 github: 
   is_project_page: true
-  show_theme_author: false
+  owner_url: http://blog.devhitao.com # 底部拥有者链接
+  owner_name: hitao
+
+# Custom 
+show_theme_author: false  # Hosted on GitHub Pages &mdash; Theme by geshi.mobi
