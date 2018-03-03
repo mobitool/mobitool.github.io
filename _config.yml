@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics: 1234
 github: 
   is_project_page: true
+  show_theme_author: false
