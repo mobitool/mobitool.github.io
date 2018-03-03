@@ -13,3 +13,4 @@ github:
 show_theme_author: false  # Hosted on GitHub Pages &mdash; Theme by geshi.mobi
 show_email: false
 admin_email: wumaokeji@126.com
+show_website_license: true
