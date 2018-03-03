@@ -1,3 +1,7 @@
 title: mobi 格式 - geshi.mobi
 description: mobi 格式相关介绍
 theme: jekyll-theme-leap-day
+
+# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+show_downloads: false
+google_analytics: [Your Google Analytics tracking ID]
