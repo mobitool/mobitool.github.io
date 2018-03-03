@@ -41,34 +41,34 @@ txt (Text Document)
 ## mobi to azw3 
 azw3(Amazon KF8 eBook File)
 
-## mobi to fb2
+fb2
 fb2 (FictionBook 2.0 File)
 
-## mobi to oeb
+oeb
 oeb (Open eBook File)
 
-## mobi to lit
+lit
 lit (Microsoft eBook File)
 
-## mobi to lrf
+lrf
 lrf (Sony Portable Reader File)
 
-## mobi to mp3 
+mp3 
 mp3 (Compressed audio file)
 
-## mobi to pdb
+pdb
 pdb (Palm Media eBook File)
 
-## mobi to pml
+pml
 pml (eBook File)
 
-## mobi to prc
+prc
 prc (Mobipocket eBook File)
 
-## mobi to rb
+rb
 rb (RocketEdition eBook File)
 
-## mobi to tcr
+tcr
 tcr (Psion eBook File)
 
 
