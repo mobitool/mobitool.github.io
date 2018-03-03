@@ -14,7 +14,7 @@
 + BMP (.BMP)
 + PDF (.PDF)
 
-以下是收集的 其他文件格式与 mobi 格式相互转换的工具(online converter tool)。
+以下是收集的 其他文件格式与 mobi 格式在线转换工具(online converter tool)。
 
 # 热门
 ## mobi to pdf
