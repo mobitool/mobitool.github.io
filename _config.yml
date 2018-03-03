@@ -1,7 +1,7 @@
 title: mobi 格式
 description: mobi 格式相关介绍
 theme: jekyll-theme-leap-day
-show_downloads: false
+show_downloads: true
 google_analytics: 1234
 github: 
   is_project_page: true
