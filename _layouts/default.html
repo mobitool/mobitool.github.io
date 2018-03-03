@@ -59,7 +59,7 @@
           <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
         {% endif %}
         {% if site.show_website_license %}
-          <p><small>© <%= new Date().getFullYear() %></small></p>
+          <p><small>© {{ site.time | date: '%y' }}</small></p>
         {% endif %}
       </footer>
     </div>
