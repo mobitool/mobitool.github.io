@@ -8,8 +8,8 @@ github:
   owner_url: https://blog.devhitao.com # 底部拥有者链接
   owner_name: hitao
   show_github_repo_url: false
-  
+
 # Custom 
 show_theme_author: false  # Hosted on GitHub Pages &mdash; Theme by geshi.mobi
-show_email: true
+show_email: false
 admin_email: wumaokeji@126.com

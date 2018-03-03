@@ -58,6 +58,9 @@
         {% if site.show_theme_author %}
           <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
         {% endif %}
+        {% if site.show_website_license %}
+          <p><small>© <%= new Date().getFullYear() %></small></p>
+        {% endif %}
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
